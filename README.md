@@ -1,1 +1,1 @@
-# odin-recipes
+This project will demonstrate my ability to create a recipes webpage using HTML. This webpage will have links, images, headings, and descriptions. The code will show the appropriate attribtues and tags. It will also allow me to practice commiting messages to github.# odin-recipes
